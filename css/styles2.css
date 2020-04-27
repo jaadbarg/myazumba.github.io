@@ -35,6 +35,7 @@
 
         .logoTitle > a {
             text-decoration: none;
+            color: inherit;
         }
 
         .logoTitle > a:visited{
