@@ -36,6 +36,7 @@
         }
         .logoTitle > a {
             text-decoration: none;
+            color: black;
         }
 
         .logoTitle > a:visited{
